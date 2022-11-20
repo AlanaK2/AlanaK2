@@ -1,4 +1,10 @@
-### Hi there 👋
+
+### Olá, eu sou a Alana! 👋
+
+Sobre mim:
+
+- 🔭 Atualmente estou em busca de uma oportunidade na area Tech
+- 🌱 Sou aluna de desenvolvimento web front-end do Bootcamp da Laboratóra
 
 <!--
 **AlanaK2/AlanaK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
