@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/109031446/202922855-fd6d08ee-ef41-4768-a1ba-978839f5b5c2.png)
 
 ### Olá, eu sou a Alana! 👋
 
