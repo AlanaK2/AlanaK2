@@ -6,7 +6,7 @@ Sobre mim:
 
 - 🔭 Atualmente estou em busca de uma oportunidade na area Tech
 - 📚 Sou aluna de desenvolvimento web front-end do Bootcamp da Laboratóra
-- 📫 Linkdin: https://www.linkedin.com/in/alana-karine/
+- 📫 LinkedIn: https://www.linkedin.com/in/alana-karine/
 - 💻 Tecnologias: JavaScript / CSS / HTML / Git / GitHub 
 <!--
 **AlanaK2/AlanaK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
