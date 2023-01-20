@@ -4,8 +4,8 @@
 
 Sobre mim:
 
-- 🔭 Atualmente estou em busca de uma oportunidade na area Tech
-- 📚 Sou aluna de desenvolvimento web front-end do Bootcamp da Laboratóra
+- 🔭 Atuo como Analista de Desenvolvimento de Sistemas I na Odontoprev
+- 📚 Fui aluna de desenvolvimento web front-end do Bootcamp da Laboratóra
 - 📫 Linkdin: https://www.linkedin.com/in/alana-karine/
 - 💻 Tecnologias: JavaScript / CSS / HTML / Git / GitHub 
 <!--
