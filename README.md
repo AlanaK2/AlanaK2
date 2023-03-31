@@ -5,6 +5,6 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho como Analista de Desenvolvimento de Sistemas na Odontoprev;
-- 📚 Sou aluna de desenvolvimento web front-end do Bootcamp da Laboratória;
+- 📚 Fui aluna de desenvolvimento web front-end do Bootcamp da Laboratória;
 - 📫 LinkedIn: https://www.linkedin.com/in/alana-karine/
 - 💻 Tecnologias: JavaScript / CSS / HTML / Typescript / Ionic / Angular / Git / GitHub 
